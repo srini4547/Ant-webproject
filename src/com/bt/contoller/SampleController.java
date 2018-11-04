@@ -1,6 +1,6 @@
 package com.bt.contoller;
 
-import javax.servlet.http.HttpServletRequest;
+import javax.servle.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
